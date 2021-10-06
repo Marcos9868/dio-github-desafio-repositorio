@@ -1,0 +1,5 @@
+Exemplo de arquivo para o repositório do GitHub.
+
+Git é um sistema de versionamento distribuído.
+
+É utilizado em todo o globo por desenvolvedores.
